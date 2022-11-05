@@ -1,0 +1,36 @@
+# Read-me-generator
+
+questions: Readme structure
+title of project (BADGE like MIT license badge)
+-Please enter your project title:
+
+description 
+-Please enter your project description:
+
+table of contents
+
+installation
+
+-Please enter your project installation instructions:
+
+usage
+-Please enter your project usage information:
+
+license
+-Please select a license from the options below:
+MIT LICENSE , APACHE LICENSE
+
+contributing
+-Please enter your project contribution guidelines:
+
+tests
+-Please enter your project tests instructions:
+
+questions
+-Please enter your github username:
+https://github.com/username
+-Please enter your email address:
+
+
+Node Packages:
+-Inquirer
