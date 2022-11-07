@@ -14,7 +14,7 @@
 
 ## Description 
 This is an application that allows you to create and generate a high quality ReadME simply by answering a series of questions.
-You can add a README file to a repository to communicate important information about your project
+You can add a README file to a repository to communicate important information about your project.
 
 
 ## Installation
