@@ -1,36 +1,73 @@
 # Read-me-generator
+ (BADGE MIT license badge): ![MIT](img.shields.io/badge/MIT-License-blue)
+ (BADGE APACHE license badge): ![APACHE](img.shields.io/badge/APACHE-License-blue)
 
-questions: Readme structure
-title of project (BADGE like MIT license badge)
--Please enter your project title:
+## Table of contents
 
-description 
--Please enter your project description:
+- [Description](#description) 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-table of contents
 
-installation
+## Description 
+Please enter your project description:
 
--Please enter your project installation instructions:
 
-usage
--Please enter your project usage information:
+## Installation
+Please follow the instruction below:
 
-license
--Please select a license from the options below:
-MIT LICENSE , APACHE LICENSE
+... 
+git clone https://github.com/SuleRas/Professional-README-Generator-.git
+cd Professional-README-Generator-
+npm install (project dependencies)
+...
 
-contributing
--Please enter your project contribution guidelines:
 
-tests
--Please enter your project tests instructions:
+## Usage
+Please follow the instruction below:
 
-questions
--Please enter your github username:
-https://github.com/username
--Please enter your email address:
+...
+npm run test
+...
+
+## License
+Please select a license from the option below:
+...
+MIT
+APACHE
+...  
+
+## Contributing
+Please enter your project contribution guidelines:
+
+## Tests
+Please follow the instruction below:
+
+...
+npm run start
+...
+
+
+## Questions
+Please Contact me on my email:
+sm.ras@hotmail.co.uk
+
+Visit my GitHub profile [here](https://github.com/SuleRas)
 
 
 Node Packages:
--Inquirer
+Inquirer
+
+BADGE
+- img.shields.io/badge/MIT-License-blue
+- img.shields.io/badge/APACHE-License-blue
+
+RENDER  JAVASCRIPT, RENDER BADGE,TABLE OF CONTENTS 
+STEP 1 prompt all questions, declare an array of questions globally
+STEP 2 generate markdown template string
+STEP 3 write to file
+STEP 4 recording
+for video type in terminal node index.js 
