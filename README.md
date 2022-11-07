@@ -1,6 +1,6 @@
 # Read-me-generator
- (BADGE MIT license badge): ![MIT](img.shields.io/badge/MIT-License-blue)
- (BADGE APACHE license badge): ![APACHE](img.shields.io/badge/APACHE-License-blue)
+ (BADGE MIT license badge): ![MIT](img.shields.io/badge/MIT-License-blue.svg)
+ (BADGE APACHE license badge): ![APACHE](img.shields.io/badge/APACHE-License-blue.svg)
 
 ## Table of contents
 
