@@ -19,5 +19,6 @@
   "homepage": "https://github.com/SuleRas/Professional-README-Generator-#readme",
   "dependencies": {
     "inquirer": "^9.1.4"
-  }
+  },
+  "devDependencies": {}
 }
