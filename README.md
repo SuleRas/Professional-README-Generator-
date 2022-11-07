@@ -52,7 +52,7 @@ Please read the installation section.
 Please follow the instruction below:
 
 ...
-npm run start || npm test
+npm run start 
 ...
 
 
