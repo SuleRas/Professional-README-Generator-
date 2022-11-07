@@ -23,6 +23,7 @@ Please follow the instruction below:
 Ensure you clone the repository from GitHub and download Node.js
 
 ... 
+
 git clone https://github.com/SuleRas/Professional-README-Generator-.git
 cd Professional-README-Generator-
 npm install (project dependencies)
@@ -34,15 +35,20 @@ npm install (project dependencies)
 Please follow the instruction below:
 
 ...
+
 node index.js (will start a series of questions that you'll have to respond to create and generate your ReadME)
 npm run test
+
 ...
 
 ## License
 Please select a license from the option below:
 ...
+
 MIT
+
 APACHE
+
 ...  
 
 ## Contributing
@@ -52,7 +58,9 @@ Please read the installation section.
 Please follow the instruction below:
 
 ...
+
 npm run start 
+
 ...
 
 
