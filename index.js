@@ -46,7 +46,7 @@ const promptUser = () => {
       {
         type: 'input',
         name: 'Tests',
-        message: 'Please follow the instruction below:',
+        message: 'Please enter your test:',
       },
       {
         type: 'input',
@@ -55,7 +55,7 @@ const promptUser = () => {
       },
       {
         type: 'input',
-        name: 'Questions',
+        name: 'Question2',
         message: 'Please enter your Github profile',
       },
     ])
