@@ -15,11 +15,11 @@
 
   
   ## Description : 
-  s
+  ReadME generator
   ## Installation :
-  s
+  none
   ## Usage :
-  s
+  none
   ## License : 
   undefined
   ## Contributing ;
