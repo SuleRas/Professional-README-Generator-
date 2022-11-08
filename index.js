@@ -25,12 +25,12 @@ const promptUser = () => {
       {
         type: 'input',
         name: 'Installation',
-        message: 'Please follow the instruction below:',
+        message: 'Please enter your installation requirements',
       },
       {
         type: 'input',
         name: 'Usage',
-        message: 'Please follow the instruction below:',
+        message: 'Please enter your usage:',
       },
       {
         type: 'input',
